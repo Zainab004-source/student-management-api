@@ -68,3 +68,16 @@ Client → API Gateway → Lambda → DynamoDB
 The `POST /students` endpoint is currently working successfully.
 
 Future improvements will include additional endpoints for retrieving, updating, and deleting student records.
+## Screenshots
+
+### AWS Lambda
+
+![AWS Lambda](lambda-function.png)
+
+### API Gateway
+
+![API Gateway](api-gateway.png)
+
+### DynamoDB
+
+![DynamoDB](dynamodb.png)
