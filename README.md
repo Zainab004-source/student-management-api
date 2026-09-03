@@ -81,3 +81,6 @@ Future improvements will include additional endpoints for retrieving, updating, 
 ### DynamoDB
 
 ![DynamoDB](dynamodb.png)
+### API Test
+
+![API Test](api-test.png)
